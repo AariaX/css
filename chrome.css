@@ -1,4 +1,3 @@
-@-moz-document url-prefix("chrome:") {
   /*
   
   This is an example userChrome.css file. Use it if you don't already have a userChrome file.
@@ -4414,5 +4413,3 @@
   /* Do NOT enter any additional CSS below. */
   
   /* You can import additional mods above, or add your own userchrome CSS below. */
-  
-}
